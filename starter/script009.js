@@ -9,6 +9,7 @@ let age =28;
 // Conversion de type
 // 2. Affichez la phrase "John a 28 ans" en utilisant les variables et affichez le type de cette expression.
 console.log(`${firstName} a ${age} ans`);
+//console.log(typeof`${firstName} a ${age} ans`);
 
 // 3. Déclarez les variables job et isMarried, puis affectez la valeur "professeur" à job et false à isMarried. Ensuite, affichez la phrase "John est un professeur de 28 ans. Est-il marié ? false".
 let job ="Professeur";
