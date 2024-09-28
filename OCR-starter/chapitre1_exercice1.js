@@ -8,6 +8,7 @@ Affichez dans la console :
 const firstName ="Marie";
 console.log(firstName);
 
+
 // Votre âge (nombre)
 const age =22;
 console.log(age);

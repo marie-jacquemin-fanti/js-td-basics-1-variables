@@ -22,6 +22,7 @@ console.log(job);
 job="Enseignant";
 console.log(job);
 
+
 // 6. Respectez les règles de nommage des variables : le nom ne peut PAS
 // - commencer par un chiffre
 // - contenir de caractères spéciaux

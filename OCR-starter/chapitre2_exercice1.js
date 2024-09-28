@@ -34,6 +34,7 @@ const e=a*(b+b);
 const f=a*b/a;
 // Déclarez la constante g et calculez sa valeur
 const g=b/a*a;
+
 // Affichez les valeurs des 7 variables dans la console
 console.log(a);
 console.log(b);
